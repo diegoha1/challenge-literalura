@@ -7,7 +7,7 @@ utilizada en las opciones de interacción del usuario.
 
 ![Menu](https://github.com/santiagopocon/LiterAlura/assets/156986536/af54e567-7c11-41ff-8c7a-05278110d6c8)
 
-## 👑 **Insignia del proyecto**
+##  **Insignia del proyecto**
 ![badge literalura.png](imagenes%2Fbadge%20literalura.png)
 
 ## :computer: **Funcionalidades**
@@ -67,7 +67,4 @@ https://gutendex.com/
 ✔️Jackson-databind
 
 ## 📝 **Autor**
-Santiago Pocón  
-Formación Java Spring Boot  
-Alura Latam ONE G6  
-2014100santiagopocon@gmail.com
+Diego Huaroc
